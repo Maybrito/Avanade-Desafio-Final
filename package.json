@@ -1,0 +1,18 @@
+{
+    "dependências" : {
+      "body-parser" : " ^1.20.0 " ,
+      "expresso" : " ^4.18.1 " ,
+      "mysql2" : " ^2.3.3 "
+    },
+    "nome" : " desafio " ,
+    "versão" : " 1.0.0 " ,
+    "descrição" : " desafio " ,
+    "main" : " index.js " ,
+    "roteiros" : {
+      "start" : " node index.js "
+    },
+    "autor" : " Mayara Brito " ,
+    "licença" : " ISC "
+  }
+  "homepage": "https://github.com/Maybrito/Desafio-Avanade.git"
+}
